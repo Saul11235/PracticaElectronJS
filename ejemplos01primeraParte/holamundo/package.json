@@ -1,0 +1,15 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "hola mundo desde electron",
+  "main": "index.js",
+  "scripts": {
+    "exe": "electron index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saul",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}
